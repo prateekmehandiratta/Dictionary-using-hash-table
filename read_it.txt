@@ -1,0 +1,2 @@
+Enter the following commands on terminal:
+"make" command and then ./sample o terminal after going in folder directory.
